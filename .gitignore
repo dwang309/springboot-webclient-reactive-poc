@@ -1,0 +1,4 @@
+# Project exclude paths
+/base-domain/target/
+/reactive-webclient/target/
+/reactive-webflux/target/
